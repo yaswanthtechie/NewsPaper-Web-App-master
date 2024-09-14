@@ -3,6 +3,7 @@
 The News Mania is a comprehensive news aggregation platform that consolidates headlines from multiple newspapers, including The Times of India, Hindustan Times, Hindustan, and The Economic Times. This project simplifies news consumption by providing users with a single platform to view the latest headlines, eliminating the need to navigate through multiple sites.
 
 **Features**
+
 1._News Aggregation:_ View headlines from The Times of India, Hindustan Times, Hindustan, and The Economic Times in one place.
 
 2._COVID-19 Counter:_ Real-time statistics on active cases and deaths in India.
